@@ -1,8 +1,18 @@
-# React + Vite
+User Sign-In System
+Description
+This project is a user authentication system with sign-in and sign-up functionalities. It uses React for the frontend and Express with MongoDB for the backend. The application allows users to register an account, log in, and access protected routes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+User registration (sign-up)
+User login (sign-in)
+Protected routes using authentication
+Responsive design with modern UI
+Tech Stack
+Frontend: React, Tailwind CSS, React Hook Form, Axios
+Backend: Express, MongoDB, Mongoose
+Icons: Phosphor Icons
+Routing: React Router DOM
+Getting Started
+Prerequisites
+Node.js and npm
+MongoDB
